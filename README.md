@@ -1,5 +1,7 @@
-# Natural-Language-Processing-Poject
-#### This repository consists of all my NLP Projects
+<p align="center">
+  <b> <h1>Natural-Language-Processing-Poject</b></p>
+    
+**This repository consists of all my NLP Projects
 
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-nltk-orange.svg)
 
